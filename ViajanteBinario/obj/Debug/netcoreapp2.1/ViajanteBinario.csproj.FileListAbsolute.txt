@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\bin\Debug\netcoreapp2.1\ViajanteBinario.deps.json
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\bin\Debug\netcoreapp2.1\ViajanteBinario.runtimeconfig.json
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\bin\Debug\netcoreapp2.1\ViajanteBinario.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\bin\Debug\netcoreapp2.1\ViajanteBinario.dll
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.AssemblyInfo.cs
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\bin\Debug\netcoreapp2.1\ViajanteBinario.pdb
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.dll
+C:\Users\thiag\Desktop\ViajanteBinario\ViajanteBinario\obj\Debug\netcoreapp2.1\ViajanteBinario.pdb
